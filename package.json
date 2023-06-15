@@ -1,12 +1,11 @@
 {
-  "name": "plantilladocumentacion",
+  "name": "c32270-railways",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
-    "dev": "nodemon src/app.js",
-    "test": "mocha test/pets.test.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
